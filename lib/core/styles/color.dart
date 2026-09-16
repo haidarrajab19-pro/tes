@@ -9,6 +9,8 @@ class AppColors {
 //  ألوان الخطوط
 static const Color fontsgreen = Colors.green ;
 static const Color fontsgrey = Colors.grey ;
-static const Color FontsWeight = Colors.white70;
+static const Color fontswhite = Colors.white70;
+
+
 
 }
