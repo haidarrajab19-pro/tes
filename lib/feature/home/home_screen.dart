@@ -28,6 +28,7 @@ class HomeScreen extends StatelessWidget {
         ),
         child: SingleChildScrollView( 
           scrollDirection: Axis.vertical,
+          
           child: Column(
             children: [
               // تم حذف السطر الخاطئ الذي كان يستدعي TeslaApp هنا
