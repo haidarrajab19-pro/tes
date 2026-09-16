@@ -6,9 +6,11 @@ class AppColors {
   static const Color radialGreenMiddle = Color(0xFF0D140E);
   static const Color backgroundBlack = Color(0xFF050806);
 
-//  ألوان الخطوط
+
+//  ألوان الخطوط الطبيق
 static const Color fontsgreen = Colors.green ;
 static const Color fontsgrey = Colors.grey ;
 static const Color FontsWeight = Colors.white70;
+
 
 }
