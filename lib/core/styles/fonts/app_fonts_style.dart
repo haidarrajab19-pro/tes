@@ -14,12 +14,18 @@ class AppFontsStyles {
   static TextStyle font2 = TextStyle(
     fontSize: 40.sp,
     fontWeight: AppFontWeight.bold,
-    color: AppColors.FontsWeight,
+    color: AppColors.fontswhite,
   );
   static TextStyle font3 = TextStyle(
     
     fontSize: 30.sp,
     fontWeight: AppFontWeight.bold,
-    color: AppColors.FontsWeight,
+    color: AppColors.fontswhite,
+  );
+  static TextStyle font4= TextStyle(
+    
+    fontSize: 30.sp,
+    fontWeight: AppFontWeight.bold,
+    color: AppColors.fontsgreen,
   );
 }

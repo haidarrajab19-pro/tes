@@ -21,10 +21,10 @@ class LogoApp extends StatelessWidget {
             left: -50,
             top: 0,
             child: Transform.rotate(
-              angle: 1.55 * (math.pi / 180),
+              angle: 1.5 * (math.pi / 180),
               child: SvgPicture.asset(
                 'assets/svgs/groub.svg',
-                width: 350.w,
+                width: 380.w,
                 fit: BoxFit.contain,
               ),
             ),
