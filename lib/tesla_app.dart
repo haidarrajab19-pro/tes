@@ -19,6 +19,7 @@ class TeslaApp extends StatelessWidget {
           initialRoute: Routes.homeScreen,
           onGenerateRoute: AppRoutes.generateRoute,
         );
+        
       },
     );
   }

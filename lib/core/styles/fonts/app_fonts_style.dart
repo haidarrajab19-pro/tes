@@ -17,6 +17,7 @@ class AppFontsStyles {
     color: AppColors.FontsWeight,
   );
   static TextStyle font3 = TextStyle(
+    
     fontSize: 30.sp,
     fontWeight: AppFontWeight.bold,
     color: AppColors.FontsWeight,

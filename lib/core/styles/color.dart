@@ -10,4 +10,5 @@ class AppColors {
 static const Color fontsgreen = Colors.green ;
 static const Color fontsgrey = Colors.grey ;
 static const Color FontsWeight = Colors.white70;
+
 }

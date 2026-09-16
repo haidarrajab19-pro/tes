@@ -28,6 +28,7 @@ class Button extends StatelessWidget {
               textAlign: TextAlign.center,
               style: AppFontsStyles.font3
             ),
+            
           ),
         ) ;
   }

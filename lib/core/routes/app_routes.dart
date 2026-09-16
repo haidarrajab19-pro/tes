@@ -17,6 +17,7 @@ class AppRoutes {
                   body: Center(
                     child: Text('No route defined for ${settings.name}'),
                   ),
+                  
                 ));
     }
   } }

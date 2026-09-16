@@ -28,6 +28,7 @@ class LogoApp extends StatelessWidget {
                 fit: BoxFit.contain,
               ),
             ),
+            
           ),
 
           // 2. المحتوى الأمامي (النصوص) في المنتصف فوق النقشة

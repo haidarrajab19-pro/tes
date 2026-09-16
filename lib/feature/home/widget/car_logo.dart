@@ -33,6 +33,7 @@ class CarLogo extends StatelessWidget {
               width: 280.w,
               fit: BoxFit.contain,
             ),
+            
           ),
         ],
       ),

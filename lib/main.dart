@@ -15,6 +15,9 @@ void main() {
       statusBarColor: Colors.transparent,
       systemNavigationBarColor: Colors.transparent,
     ),
+
+
+    
   );
 
   runApp(const TeslaApp());
