@@ -1,7 +1,6 @@
 name: tes
 description: "A new Flutter project."
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
@@ -16,7 +15,7 @@ dependencies:
   get_it: ^7.6.7
   dio: ^5.4.0
   retrofit: ^4.1.0
-  intl: ^0.20.2    # <--- تعديل هذا السطر
+  intl: ^0.20.2
   easy_localization: ^3.0.7
   flutter_svg: ^2.0.10+1
   flutter_screenutil: ^5.9.3
@@ -30,11 +29,20 @@ dev_dependencies:
   json_serializable: ^6.8.0
   pretty_dio_logger: ^1.4.0
   flutter_lints: ^5.0.0
+  flutter_native_splash: ^2.4.0
 
 flutter:
   uses-material-design: true
-
-  # أضف مسارات الصور والأيقونات هنا (تأكد من إنشاء مجلد assets في الجذور الرئيسي للمشروع)
   assets:
     - assets/images/
     - assets/svgs/
+
+flutter_native_splash:
+  color: "#16221A"
+  image: "assets/images/tesla_logo.png"
+  color_dark: "#16221A"
+
+  android_12:
+    color: "#16221A"
+    image: "assets/images/tesla_logo.png"
+    color_dark: "#16221A"
