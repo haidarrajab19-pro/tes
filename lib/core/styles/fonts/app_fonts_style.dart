@@ -22,4 +22,10 @@ class AppFontsStyles {
     fontWeight: AppFontWeight.bold,
     color: AppColors.fontswhite,
   );
+  static TextStyle font4= TextStyle(
+    
+    fontSize: 30.sp,
+    fontWeight: AppFontWeight.bold,
+    color: AppColors.fontsgreen,
+  );
 }
