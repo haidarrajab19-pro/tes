@@ -28,4 +28,31 @@ class AppFontsStyles {
     fontWeight: AppFontWeight.bold,
     color: AppColors.fontsgreen,
   );
+
+
+  static TextStyle font5= TextStyle(
+    
+    fontSize: 15.sp,
+    fontWeight: AppFontWeight.bold,
+    color: AppColors.fontsgreen,
+  );
+  static TextStyle font6= TextStyle(
+    
+    fontSize: 15.sp,
+    fontWeight: AppFontWeight.bold,
+    color: AppColors.fontswhite,
+  );
+  static TextStyle font7= TextStyle(
+    
+    fontSize: 14.sp,
+    fontWeight: AppFontWeight.bold,
+    color: AppColors.fontsgreen,
+  );
+  static TextStyle font8= TextStyle(
+    
+    fontSize: 8.sp,
+    fontWeight: AppFontWeight.bold,
+    color: AppColors.fontsgreen,
+  );
+
 }
