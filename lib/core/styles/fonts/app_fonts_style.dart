@@ -48,5 +48,11 @@ class AppFontsStyles {
     fontWeight: AppFontWeight.bold,
     color: AppColors.fontsgreen,
   );
+  static TextStyle font8= TextStyle(
+    
+    fontSize: 8.sp,
+    fontWeight: AppFontWeight.bold,
+    color: AppColors.fontsgreen,
+  );
 
 }
